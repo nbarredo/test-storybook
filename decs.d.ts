@@ -1,0 +1,2 @@
+declare module "@eversource/storybook";
+
